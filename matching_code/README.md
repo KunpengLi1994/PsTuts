@@ -1,4 +1,4 @@
-## Text-Tutorial Clip Retrieval
+# Text-Tutorial Clip Retrieval
 
 ## Requirements 
 We recommended the following dependencies.
