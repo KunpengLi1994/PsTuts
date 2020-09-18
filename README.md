@@ -25,9 +25,6 @@ The source videos as well as annotations can be downloaded from: https://drive.g
 ## Reference
 If you found this code useful, please cite the following paper:
 
-
-If you found this code useful, please cite the following paper:
-
     @inproceedings{li2020pstuts,
       title={Screencast Tutorial Video Understanding},
       author={Li, Kunpeng and Fang, Chen and Wang, Zhaowen and Kim, Seokhwan and Jin, Hailin and Fu, Yun},
