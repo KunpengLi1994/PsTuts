@@ -15,11 +15,11 @@ The general structure of our visual cue reasoning (VCR) method for text-to-video
 
 
 ## Text-Tutorial Clip Retrieval
-Code, extracted feature, pretrained model and doc for text-to-tutorial clip retrieval task are in the "matching_code/" folder. 
+Code, extracted feature, pretrained model and doc for text-to-tutorial clip retrieval task are in the [matching_code/](https://github.com/KunpengLi1994/PsTuts/tree/master/matching_code) folder. 
 
 
 ## Tutorial Clip Captioning
-Code, extracted feature, pretrained model and doc for tutorial clip captioning task are in the "captioning_code/" folder.
+Code, extracted feature, pretrained model and doc for tutorial clip captioning task are in the [captioning_code/](https://github.com/KunpengLi1994/PsTuts/tree/master/captioning_code) folder.
 
 
 ## Source Data
