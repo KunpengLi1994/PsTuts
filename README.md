@@ -1,5 +1,5 @@
 # Screencast Tutorial Video Understanding
-PyTorch code for the paper "Screencast Tutorial Video Understanding" [[pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Screencast_Tutorial_Video_Understanding_CVPR_2020_paper.pdf)], which is accepted by CVPR 2020. 
+PyTorch code for the paper "Screencast Tutorial Video Understanding" [[pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Screencast_Tutorial_Video_Understanding_CVPR_2020_paper.pdf)], which is accepted by CVPR 2020. [Project page](https://sites.google.com/view/pstuts/)
 
 
 
