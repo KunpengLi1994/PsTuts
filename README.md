@@ -9,6 +9,10 @@ Screencast tutorials are videos created by people to teach how to use software a
 
 ![pipeline](/fig/pipeline.png)
 
+The general structure of our visual cue reasoning (VCR) method for text-to-video retrieval and tutorial video captioning is shown as follows. The tutorial encoding is generated considering correlations between different visual cues as well as video frames.
+
+![model](/fig/retrieval_caption_model.png)
+
 
 ## Text-Tutorial Clip Retrieval
 Code, extracted feature, pretrained model and doc for text-to-tutorial clip retrieval task are in the "matching_code/" folder. 
