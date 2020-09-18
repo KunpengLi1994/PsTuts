@@ -47,15 +47,15 @@ Pretrained models can be downloaded from https://drive.google.com/file/d/1RgqhYS
 The code is built on top of the [VSE++](https://github.com/fartashf/vsepp), we appreciate their efforts. 
 
 ## Reference
-
 If you found this code useful, please cite the following paper:
 
-@inproceedings{li2020pstuts,
-   author = {Li, Kunpeng and Fang, Chen and Wang, Zhaowen and Kim, Seokhwan and Jin, Hailin and Fu, Yun},
-   title = {Screencast Tutorial Video Understanding},
-   booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-   year = {2020}
-}
+    @inproceedings{li2020pstuts,
+      title={Screencast Tutorial Video Understanding},
+      author={Li, Kunpeng and Fang, Chen and Wang, Zhaowen and Kim, Seokhwan and Jin, Hailin and Fu, Yun},
+      booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+      year={2020}
+    }
+
 
 ## License
 
