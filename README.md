@@ -25,12 +25,16 @@ The source videos as well as annotations can be downloaded from: https://drive.g
 ## Reference
 If you found this code useful, please cite the following paper:
 
-@inproceedings{li2020pstuts,
-   author = {Li, Kunpeng and Fang, Chen and Wang, Zhaowen and Kim, Seokhwan and Jin, Hailin and Fu, Yun},
-   title = {Screencast Tutorial Video Understanding},
-   booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-   year = {2020}
-}
+
+If you found this code useful, please cite the following paper:
+
+    @inproceedings{li2020pstuts,
+      title={Screencast Tutorial Video Understanding},
+      author={Li, Kunpeng and Fang, Chen and Wang, Zhaowen and Kim, Seokhwan and Jin, Hailin and Fu, Yun},
+      booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+      year={2020}
+    }
+
 
 ## License
 
